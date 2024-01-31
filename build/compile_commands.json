@@ -1,0 +1,72 @@
+[
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\Game.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\Game.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/Game.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\Button.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\Button.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/Button.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\Fruit.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\Fruit.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/Fruit.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\Grid.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\Grid.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/Grid.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\OptionButton.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\OptionButton.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/OptionButton.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\Snake.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\Snake.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/Snake.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\TitleSprite.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\TitleSprite.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/TitleSprite.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\element\\Wall.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\element\\Wall.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/element/Wall.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\main.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\main.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/main.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\screen\\GameOverScreen.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\screen\\GameOverScreen.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/screen/GameOverScreen.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\screen\\GameScreen.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\screen\\GameScreen.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/screen/GameScreen.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\screen\\MenuScreen.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\screen\\MenuScreen.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/screen/MenuScreen.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\screen\\OptionScreen.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\screen\\OptionScreen.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/screen/OptionScreen.cpp"
+},
+{
+  "directory": "D:/oopCODE/lab/sfSnake/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/GreedySnake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\GreedySnake.dir\\src\\screen\\Screen.cpp.obj -c D:\\oopCODE\\lab\\sfSnake\\src\\screen\\Screen.cpp",
+  "file": "D:/oopCODE/lab/sfSnake/src/screen/Screen.cpp"
+}
+]
